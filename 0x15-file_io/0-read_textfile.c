@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * this program would read a text_file to the standard output
+ * read_textfile- Read text file print to STDOUT.
  * @filename: text file being read
  * @letters: number of letters to be read
  * Return: w- actual number of bytes read and printed
