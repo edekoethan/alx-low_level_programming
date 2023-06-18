@@ -1,6 +1,6 @@
 /*
  * File: 2-add_dnodeint.c
- * Auth: Brennan D Baraban
+ * Authour : edeko
  */
 
 #include "lists.h"
@@ -10,7 +10,7 @@
  * @head: A pointer to the head of the dlistint_t list.
  * @n: The integer for the new node to contain.
  *
- * Return: If the function fails - NULL.
+ * Re
  *         Otherwise - the address of the new node.
  */
 dlistint_t *add_dnodeint(dlistint_t **head, const int n)
